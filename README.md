@@ -1,8 +1,4 @@
 # Tableau_Data_Profiling
-Tableau_Data_Profiling
-
-[Tableau Data Profiling Dashboard Link](https://public.tableau.com/app/profile/jacob3101/viz/DataProfilingDashboard/Dashboard1?publish=yes)
-
 
 Objective:
 Create a dashboard that allows a user to examine the composition and quality of a specfic column of data in table
