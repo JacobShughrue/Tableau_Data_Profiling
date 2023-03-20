@@ -7,7 +7,7 @@ Create a data profiling dashboard that allows a user to analyze the composition 
 - Value Distribution (see underlying data values that exist in a column) 
 
 ### File Glossary:
-1. [Tableau Data Profiling Dashboard Link](https://public.tableau.com/app/profile/jacob3101/viz/DataProfilingDashboard/Dashboard1?publish=yes) - This link showcases the Tableau Data Profiling dasboard I have put together. Differnt columns can be profiled via the dropdown on the right of the report.
+1. [Tableau Data Profiling Dashboard Link](https://public.tableau.com/app/profile/jacob3101/viz/DataProfilingDashboard/Dashboard?publish=yes) - This link showcases the Tableau Data Profiling dasboard I have put together. Differnt columns can be profiled via the dropdown on the right of the report.
 
 ### FAQ:
 - Unique Values = A count of the records that only occur once.
